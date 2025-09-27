@@ -6,20 +6,13 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="typescript logo"  />
-  <img width="12" />
 </div>
 
 
