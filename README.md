@@ -1,11 +1,11 @@
 # What's up 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Full-Stack+Developer.)](https://git.io/typing-svg)
 
-<p align="400">
+<!-- <p align="400">
     <br>
   <a href="https://discord.com/users/441932495693414410" target="_blank">
     <img height="300" src="https://lanyard.cnrad.dev/api/441932495693414410?bg=151515&borderRadius=5px" alt="Discord Status"/>
-    </a>
+    </a> -->
 
 <div>
   <a href="https://github.com/levisantosp">
@@ -16,7 +16,7 @@
 
 ---
 
-**``Languages & Tecnologies``**
+### Languages & Tecnologies
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
