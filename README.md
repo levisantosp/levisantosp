@@ -1,30 +1,48 @@
-# What's up 👋
+<h1 align="center">Hey 👋What's Up?</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Full-Stack+Developer.)](https://git.io/typing-svg)
 
-<!-- <p align="400">
-    <br>
-  <a href="https://discord.com/users/441932495693414410" target="_blank">
-    <img height="300" src="https://lanyard.cnrad.dev/api/441932495693414410?bg=151515&borderRadius=5px" alt="Discord Status"/>
-    </a> -->
+###
 
-<div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="typescript logo"  />
+  <img width="12" />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app?username=levisantosp&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<div align="center">
   <a href="https://github.com/levisantosp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levisantosp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
 
----
+###
 
-### Languages & Tecnologies
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-</div>
-  
-  ##
-  
-  ![Snake animation](https://github.com/levisantosp/levisantosp/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levisantosp/levisantosp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levisantosp/levisantosp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/levisantosp/levisantosp/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- ![Snake animation](https://github.com/levisantosp/levisantosp/blob/output/github-contribution-grid-snake.svg) -->
+
+###
