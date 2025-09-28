@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Full-Stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Fullstack+Developer.)](https://git.io/typing-svg)
 
 ###
 
