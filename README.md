@@ -9,6 +9,7 @@
   <img src='https://skillicons.dev/icons?i=js' height='60' alt='javascript logo' title='JavaScript'  />
   <img src='https://skillicons.dev/icons?i=nextjs' height='60' alt='nextjs logo' title='Next.js'  />
   <img src='https://skillicons.dev/icons?i=nodejs' height='60' alt='nodejs logo' title='Node.js'  />
+  <img src='https://skillicons.dev/icons?i=bun' height='60' alt='nodejs logo' title='Node.js'  />
   <img src='https://skillicons.dev/icons?i=tailwind' height='60' alt='tailwindcss logo' title='Tailwind CSS'  />
   <img src='https://skillicons.dev/icons?i=prisma' height='60' alt='prisma logo' title='Prisma'  />
   <img src='https://skillicons.dev/icons?i=postgres' height='60' alt='postgres logo' title='PostgreSQL'  />
