@@ -24,7 +24,7 @@
 </div>
 
 <div align='center'>
-  <img height='250em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=21600' />
+  <img height='220em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=21600' />
 </div>
 
 <div align='center'>
