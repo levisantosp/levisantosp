@@ -21,9 +21,16 @@
 
 <div align='center'>
   <img src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3' height='180em' alt='streak graph'  />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=21600' />
+</div>
+
+<div align='center'>
+  <img height='250em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=21600' />
+</div>
+
+<div align='center'>
   <img src='https://github-profile-trophy.vercel.app?username=levisantosp&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4' height='180em' alt='trophy graph'  />
 </div>
+
 <div align='center'>
   <a href='https://github.com/levisantosp'>
   </a>
