@@ -4,18 +4,27 @@
 
 ###
 
-<div align='center'>
-  <img src='https://skillicons.dev/icons?i=ts' height='60' alt='typescript logo' title='TypeScript'  />
-  <img src='https://skillicons.dev/icons?i=js' height='60' alt='javascript logo' title='JavaScript'  />
-  <img src='https://skillicons.dev/icons?i=nextjs' height='60' alt='nextjs logo' title='Next.js'  />
-  <img src='https://skillicons.dev/icons?i=nodejs' height='60' alt='nodejs logo' title='Node.js'  />
-  <img src='https://skillicons.dev/icons?i=bun' height='60' alt='bun logo' title='Bun'  />
-  <img src='https://skillicons.dev/icons?i=tailwind' height='60' alt='tailwindcss logo' title='Tailwind CSS'  />
-  <img src='https://skillicons.dev/icons?i=prisma' height='60' alt='prisma logo' title='Prisma'  />
-  <img src='https://skillicons.dev/icons?i=postgres' height='60' alt='postgres logo' title='PostgreSQL'  />
-  <img src='https://skillicons.dev/icons?i=mongo' height='60' alt='mongo logo' title='MongoDB'  />
-</div>
-
+<h3 align="center">Technologies I currently use:</h3>
+<table align="center">
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=ts,js,nextjs,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,postgres,mongo" />
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Tools</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=prisma,docker,git,github,vscode,arch" />
+    </td>
+  </tr>
+</table>
 
 ###
 
