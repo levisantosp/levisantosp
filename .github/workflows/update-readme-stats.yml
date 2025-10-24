@@ -23,7 +23,7 @@ jobs:
           TIMESTAMP: ${{ env.TIMESTAMP_VAR }}
         run: |
           sed -i 's|&ts=[0-9]*||g' README.md
-          sed -i 's|\(https://github-readme-stats.vercel.app/api[^']*\)'"'"'|\1\&ts='"$TIMESTAMP"''"'"'|g' README.md
+          sed -i "s|\(https://github-readme-stats.vercel.app/api[^']*\)'|\\1&ts=$TIMESTAMP'|g" README.md
 
       - name: Commit and push (if changes)
         run: |
