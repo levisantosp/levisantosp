@@ -6,24 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-stats:
+  update-main-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate timestamp
-        run: echo "TIMESTAMP_VAR=$(date +%s)" >> $GITHUB_ENV
+        run: echo "TIMESTAMP=$(date +%s)" >> $GITHUB_ENV
 
-      - name: Update Vercel stats URLs in README
-        env:
-          TIMESTAMP: ${{ env.TIMESTAMP_VAR }}
+      - name: Update main stats image URL in README
         run: |
-          sed -i 's|&ts=[0-9]*||g' README.md
-          sed -i "s|\(https://github-readme-stats.vercel.app/api[^']*\)'|\\1&ts=$TIMESTAMP'|g" README.md
+          sed -i "s|\(github-readme-stats\.vercel\.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient\)\([^']*\)|\1\&ts=${{ env.TIMESTAMP }}|g" README.md
 
       - name: Commit and push (if changes)
         run: |
@@ -32,7 +29,7 @@ jobs:
           git add README.md
           
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update README stats timestamp 🤖"
+            git commit -m "chore: update README main stats timestamp 🤖"
             git push
           else
             echo "No changes needed."
