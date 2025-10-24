@@ -29,7 +29,7 @@ jobs:
           git add README.md
           
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update README stats timestamp 🤖"
+            git commit -m "chore: update README top langs stats timestamp 🤖"
             git push
           else
             echo "No changes needed."
