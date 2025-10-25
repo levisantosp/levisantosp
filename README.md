@@ -24,6 +24,7 @@
       <img height='40' src='https://skillicons.dev/icons?i=nodejs' title='Node.js' />
       <img height='40' src='https://skillicons.dev/icons?i=postgres' title='PostgreSQL' />
       <img height='40' src='https://skillicons.dev/icons?i=mongo' title='MongoDB' />
+      <img height='40' src='https://skillicons.dev/icons?i=redis' title='Redis' />
     </td>
   </tr>
   <tr>
