@@ -58,7 +58,7 @@
 
 <details>	
   <summary><b>Used Languages</b></summary>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&hide_title=true&ts=1761569308'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&hide_title=true&ts=1761615813'>
 </details>
 
 ###
