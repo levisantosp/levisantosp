@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td style='padding=0;width=50%;'>
-      <img align='center' style='padding=0;' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1761606749' alt='basic info' />
+      <img align='center' style='padding=0;' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1761613295' alt='basic info' />
     </td>
     <td style='padding=0;width=50%;'>
       <img align='center' style='padding=0;' src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3' alt='streak' />
