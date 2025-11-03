@@ -23,6 +23,7 @@
       <img height='40' src='https://skillicons.dev/icons?i=bun' title='Bun' />
       <img height='40' src='https://skillicons.dev/icons?i=nodejs' title='Node.js' />
       <img height='40' src='https://skillicons.dev/icons?i=elysia' title='ElysiaJS' />
+      <img height='40' src='https://skillicons.dev/icons?i=discordjs' title='discord.js' />
       <img height='40' src='https://skillicons.dev/icons?i=postgres' title='PostgreSQL' />
       <img height='40' src='https://skillicons.dev/icons?i=mongo' title='MongoDB' />
       <img height='40' src='https://skillicons.dev/icons?i=redis' title='Redis' />
@@ -31,6 +32,7 @@
   <tr>
     <td style='font-weight: bold; padding-right: 10px; vertical-align: center;'>Tools</td>
     <td>
+      <img height='40' src='https://skillicons.dev/icons?i=pnpm' title='Performant NPM' />
       <img height='40' src='https://skillicons.dev/icons?i=prisma' title='Prisma' />
       <img height='40' src='https://skillicons.dev/icons?i=docker' title='Docker' />
       <img height='40' src='https://skillicons.dev/icons?i=git' title='Git' />
