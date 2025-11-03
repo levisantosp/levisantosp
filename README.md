@@ -33,7 +33,7 @@
     <td style='font-weight: bold; padding-right: 10px; vertical-align: center;'>Tools</td>
     <td>
       <img height='40' src='https://skillicons.dev/icons?i=pnpm' title='Performant NPM' />
-      <img height='40' src='https://skillicons.dev/icons?i=prisma' title='Prisma' />
+      <img height='40' src='https://skillicons.dev/icons?i=prisma' title='Prisma ORM' />
       <img height='40' src='https://skillicons.dev/icons?i=docker' title='Docker' />
       <img height='40' src='https://skillicons.dev/icons?i=git' title='Git' />
       <img height='40' src='https://skillicons.dev/icons?i=github' title='GitHub' />
