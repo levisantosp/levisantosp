@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td style='padding=0;width=50%;'>
-      <img align='center' style='padding=0;' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1762172303' alt='basic info' />
+      <img align='center' style='padding=0;' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1762216984' alt='basic info' />
     </td>
     <td style='padding=0;width=50%;'>
       <img align='center' style='padding=0;' src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3' alt='streak' />
@@ -60,7 +60,7 @@
 
 <details>	
   <summary><b>Used Languages</b></summary>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&hide_title=true&ts=1762172303'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&hide_title=true&ts=1762216984'>
 </details>
 
 ###
