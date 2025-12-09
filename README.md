@@ -4,8 +4,8 @@
 
 ###
 
-<h3 align='center'>Technologies I currently use:</h3>
-<table align='center'>
+<h3>Technologies I currently use:</h3>
+<table>
   <tr>
     <td style='font-weight: bold; padding-right: 10px; vertical-align: center;'>Frontend</td>
     <td>
@@ -48,22 +48,22 @@
 
 ###
 
-<h3 align='center'>Quick Stats:</h3>
+<h3>Quick Stats:</h3>
 <table>
   <tr>
-    <td style='padding=0;width=50%;'>
+    <!-- <td style='padding=0;width=50%;'>
       <img align='center' style='padding=0;' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1765241121' alt='basic info' />
-    </td>
+    </td> -->
     <td style='padding=0;width=50%;'>
       <img align='center' style='padding=0;' src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3' alt='streak' />
     </td>
   </tr>
 </table>
 
-<details>	
+<!-- <details>	
   <summary><b>Used Languages</b></summary>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&hide_title=true&ts=1765241121'>
-</details>
+</details> -->
 
 ###
 
