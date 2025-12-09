@@ -11,6 +11,8 @@
     <td>
       <img height='40' src='https://skillicons.dev/icons?i=ts' title='TypeScript' />
       <img height='40' src='https://skillicons.dev/icons?i=js' title='JavaScript' />
+      <img height='40' src='https://skillicons.dev/icons?i=react' title='React' />
+      <img height='40' src='https://skillicons.dev/icons?i=vite' title='Vite' />
       <img height='40' src='https://skillicons.dev/icons?i=nextjs' title='Next.js' />
       <img height='40' src='https://skillicons.dev/icons?i=tailwind' title='Tailwind CSS' />
     </td>
