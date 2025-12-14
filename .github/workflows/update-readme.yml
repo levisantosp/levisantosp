@@ -21,7 +21,7 @@ jobs:
       - name: Update stats image URLs in README
         run: |
           sed -i "s|\(github-readme-stats\.vercel\.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient\)\([^']*\)|\1\&ts=${{ env.TIMESTAMP }}|g" README.md
-          sed -i "s|\(github-readme-stats.vercel.app/api/top-langs/.*hide_title=true\).*'|\1\&ts=${{ env.TIMESTAMP }}'|g" README.md
+          sed -i "s|\(github-readme-stats.vercel.app/api/top-langs/.*theme=ambient_gradient\)\([^']*\)|\1\&ts=${{ env.TIMESTAMP }}|g" README.md
 
       - name: Commit and push (if changes)
         run: |
