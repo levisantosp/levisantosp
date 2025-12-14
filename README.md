@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td style='width:50%;'>
-      <img align='center' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1765586608' alt='basic info' />
+      <img align='center' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1765673488' alt='basic info' />
     </td>
     <td style='width:50%;'>
       <img align='center' src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3' alt='streak' />
