@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td style='width:50%;'>
-      <img align='center' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1766364615' alt='basic info' />
+      <img align='center' src='https://github-readme-stats.vercel.app/api?username=levisantosp&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=ambient_gradient&ts=1766450786' alt='basic info' />
     </td>
     <td style='width:50%;'>
       <img align='center' src='https://streak-stats.demolab.com?user=levisantosp&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3' alt='streak' />
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td colspan='2' align='center'>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&ts=1766364615' alt='Used Languages'>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&ts=1766450786' alt='Used Languages'>
     </td>
   </tr>
 </table>
