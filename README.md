@@ -48,7 +48,7 @@
 
 ###
 
-<h3>Quick Stats:</h3>
+<!-- <h3>Quick Stats:</h3>
 <table>
   <tr>
     <td style='width:50%;'>
@@ -63,7 +63,7 @@
       <img src='https://github-readme-stats-fast.vercel.app/api/top-langs/?username=levisantosp&layout=donut&langs_count=16&theme=ambient_gradient&ts=1766537197' alt='Used Languages'>
     </td>
   </tr>
-</table>
+</table> -->
 
 ###
 
